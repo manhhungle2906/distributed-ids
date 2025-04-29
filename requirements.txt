@@ -1,0 +1,10 @@
+flask
+fastapi
+uvicorn
+requests
+sqlalchemy
+cryptography
+grpcio
+python-telegram-bot
+plyer
+cryptography

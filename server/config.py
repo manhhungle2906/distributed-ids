@@ -1,0 +1,8 @@
+SERVER_PORT = 8000
+AUTH_TOKEN = "supersecrettoken"
+
+
+# Telegram Bot settings
+TELEGRAM_BOT_TOKEN = "7724439609:AAGbQXOpIDMgJrPx5Ofsw455zhPw2vrSJkE"
+TELEGRAM_CHAT_ID = 6615461529
+
